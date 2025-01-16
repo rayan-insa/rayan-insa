@@ -52,10 +52,13 @@ I'm a **4th-year Computer Engineering student** at [INSA Lyon](https://www.insa-
 - Time Management
 
 ### Languages
-![French](https://img.shields.io/badge/-French%20(Native)-0055A4?style=flat-square&logo=france&logoColor=white)
-![English](https://img.shields.io/badge/-English%20(C1)-0078D4?style=flat-square&logo=united-kingdom&logoColor=white)
-![Spanish](https://img.shields.io/badge/-Spanish%20(B2)-FF4B00?style=flat-square&logo=spain&logoColor=white)
+
+![French](https://img.shields.io/badge/-French%20(Native)-0055A4?style=flat-square&logo=france&logoColor=white)  
+![Maghreb & Middle-East Dialectal Arabic](https://img.shields.io/badge/-Maghreb%20&%20Middle--East%20Dialectal%20Arabic%20(Native)-0055A4?style=flat-square&logo=language&logoColor=white)
+![English](https://img.shields.io/badge/-English%20(C1)-0078D4?style=flat-square&logo=united-kingdom&logoColor=white)  
+![Spanish](https://img.shields.io/badge/-Spanish%20(B2)-FF4B00?style=flat-square&logo=spain&logoColor=white)  
 ![Turkish](https://img.shields.io/badge/-Turkish%20(A2)-E30A17?style=flat-square&logo=turkey&logoColor=white)
+![Classical Arabic](https://img.shields.io/badge/-Classical%20Arabic%20(B1)-0055A4?style=flat-square&logo=language&logoColor=white)
 
 ---
 
