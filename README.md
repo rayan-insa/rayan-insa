@@ -1,6 +1,6 @@
 ## Hi there, I am Rayan 👋
 
-I'm a **4th-year Computer Engineering student** at [INSA Lyon](https://www.insa-lyon.fr/). Passionate about emerging technologies, I'm on a quest for **knowledge** to contribute to the advancement of our world. Through my education and future career, I aspire to contribute to building a society of comfort and security. My Tech centers of interest are **AI** and all its sub-themes : **Data Science**, **Machine Learning**, **Natural Language Processing**, etc.
+I'm a **Final-Year Computer Science major** at [INSA Lyon](https://www.insa-lyon.fr/). Passionate about emerging technologies, I'm on a quest for **knowledge** to contribute to the advancement of our world. Through my education and future career, I aspire to contribute to building a society of comfort and security. My Tech centers of interest are **AI** and all its sub-themes : **Data Science**, **Machine Learning**, **Natural Language Processing**, etc.
 
 - 🔭 I’m currently working as a part-time Computer Engineering Freelance Consultant, mainly for [ETIC INSA Technologies Junior Company](https://www.etic-insa.com).
 - 🌱 I’m currently learning more about AI Technologies, as I want to make from this field of computer science my future carrier.
